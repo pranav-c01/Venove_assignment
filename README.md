@@ -69,7 +69,20 @@ This provides a visual summary of the member's travel history.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+### 1. Home Screen
+<img src="./Screenshots/Homesceen.jpg" alt="Home Screen" style="width:40%;border:1px solid #ddd;border-radius:8px;padding:5px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+### 2. Location Screen
+<img src="./Screenshots/Locationsceen.jpg" alt="Location Screen" style="width:40%;border:1px solid #ddd;border-radius:8px;padding:5px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+### 3. Map Screen
+<img src="./Screenshots/mapscreen.jpg" alt="Map Screen" style="width:40%;border:1px solid #ddd;border-radius:8px;padding:5px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+### 4. Route Screen
+<img src="./Screenshots/Routescreen.jpg" alt="Route Screen" style="width:40%;border:1px solid #ddd;border-radius:8px;padding:5px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+### 5. Members Screen
+<img src="./Screenshots/Membersceen.jpg" alt="Members Screen" style="width:40%;border:1px solid #ddd;border-radius:8px;padding:5px;box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);"/>
 
 
 ## Installation
